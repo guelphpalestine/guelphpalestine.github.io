@@ -79,6 +79,7 @@ a:hover {
 .icon{
     height: 75px;
     width: 75px;
+    object-fit: contain;
 }
 
 .outer-wrapper{
