@@ -77,10 +77,8 @@ a:hover {
 }
 
 .icon{
-    width: 20%;
-    float: center;
-    line-height: 120px;
-    
+    height: 75px;
+    width: 75px;
 }
 
 .outer-wrapper{
