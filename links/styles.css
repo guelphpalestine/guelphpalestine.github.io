@@ -80,6 +80,7 @@ a:hover {
     height: 75px;
     width: 75px;
     object-fit: contain;
+    text-align: center;
 }
 
 .outer-wrapper{
@@ -88,6 +89,7 @@ a:hover {
     margin-left: auto;
     margin-right: auto;
 }
+
 .frame{  
     margin-top: 20px;
     padding: 20px;
@@ -102,10 +104,3 @@ a:hover {
     margin-left: auto;
     margin-right: auto;
 } 
-
-.books{
-    max-width: 100%;
-    max-height: 100%;
-    margin: auto;
-    display: block;
-}
