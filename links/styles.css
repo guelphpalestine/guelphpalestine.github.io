@@ -79,6 +79,19 @@ a:hover {
     text-align: center;
 }
 
+.outer-wrapper{
+    display: inline-block; 
+    margin: 20px;
+}
+.frame{  
+    width: 250px;
+    height: 200px;
+    border: 1px solid white;
+    vertical-align: middle;
+    text-align: center;
+    display: table-cell;
+} 
+
 .books{
     max-width: 100%;
     max-height: 100%;
