@@ -69,12 +69,14 @@ a:hover {
     background: black;
     margin: 5px;
     padding: 10px;
+    text-align: center;
 }
 
 .icon{
     width: 15%;
     float: left;
     line-height: 120px;
+    text-align: center;
 }
 
 .books{
