@@ -64,7 +64,7 @@ a:hover {
 
 .book {
     width: 48%;
-    float: left;
+    float: center;
     background: black;
     margin: 5px;
     padding: 10px;
