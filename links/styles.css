@@ -11,6 +11,13 @@ img {
 
 }
 
+pic {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
 .profile-picture {
     display: block;
     margin-left: auto;
